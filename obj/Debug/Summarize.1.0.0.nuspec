@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Summarize</id>
+    <version>1.0.0</version>
+    <authors>Summarize</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a3b51e7aa58f76f045bd7d87b9cf2262728196e7" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="DotNetEnv" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="9.0.0-preview.5.24306.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Sandbox\Summarize\Summarize\bin\Debug\net8.0\Summarize.runtimeconfig.json" target="lib\net8.0\Summarize.runtimeconfig.json" />
+    <file src="C:\Sandbox\Summarize\Summarize\bin\Debug\net8.0\Summarize.dll" target="lib\net8.0\Summarize.dll" />
+  </files>
+</package>

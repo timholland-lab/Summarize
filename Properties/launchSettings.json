@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Summarize": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Sandbox\\Summarize\\Summarize"
+    }
+  }
+}
